@@ -1,6 +1,6 @@
 ---
 ## Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v1.3.3-40-g151c338
+_commit: v1.3.3-44-g150246d
 _src_path: /Users/kamontat/Desktop/Personal/asdf-plugin-template
 app_desc: Fast linters Runner for Go
 app_name: golangci-lint
