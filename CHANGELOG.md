@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-golangci-lint/compare/v1.0.0...v1.0.1) (2023-12-03)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([f57ea77](https://github.com/kc-workspace/asdf-golangci-lint/commit/f57ea776bafabdb93cf861bd9d377fa8890bcc60))
+
 ## 1.0.0 (2023-11-06)
 
 
